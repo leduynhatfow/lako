@@ -1,0 +1,17 @@
+httpx
+requests
+colorama
+tkintertable
+ttkbootstrap
+selenium
+Pillow
+aiohttp
+pystyle
+rich
+pyperclip
+cloudscraper
+fake-useragent
+pytz
+beautifulsoup4
+pyfiglet
+urllib3
